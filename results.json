@@ -1,0 +1,71 @@
+{
+  "config": {
+    "layout": "originalClassic",
+    "num_ghosts": 2,
+    "depth": 2,
+    "num_games": 1,
+    "seed": 42
+  },
+  "version_a_recursive": {
+    "games": [
+      {
+        "score": 249.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 4.275972656000363,
+        "avg_decision_time": 0.00851787381673379,
+        "decision_count": 502,
+        "max_metric": 6
+      }
+    ],
+    "ghost_win_rate": "1/1",
+    "ghost_win_pct": 100.0,
+    "pacman_win_rate": "0/1",
+    "pacman_win_pct": 0.0,
+    "avg_score": 249.0,
+    "avg_decision_time_ms": 8.518,
+    "max_recursion_depth": 6
+  },
+  "version_b_iterative": {
+    "games": [
+      {
+        "score": 249.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 4.612470627001471,
+        "avg_decision_time": 0.009188188500002931,
+        "decision_count": 502,
+        "max_metric": 7
+      }
+    ],
+    "ghost_win_rate": "1/1",
+    "ghost_win_pct": 100.0,
+    "pacman_win_rate": "0/1",
+    "pacman_win_pct": 0.0,
+    "avg_score": 249.0,
+    "avg_decision_time_ms": 9.188,
+    "max_stack_size": 7
+  },
+  "comparison_summary": {
+    "ghost_win_rate": {
+      "recursive": "1/1 (100.0%)",
+      "iterative": "1/1 (100.0%)"
+    },
+    "pacman_win_rate": {
+      "recursive": "0/1 (0.0%)",
+      "iterative": "0/1 (0.0%)"
+    },
+    "avg_decision_time_ms": {
+      "recursive": 8.518,
+      "iterative": 9.188
+    },
+    "max_depth_or_stack": {
+      "recursive": 6,
+      "iterative": 7
+    },
+    "avg_score": {
+      "recursive": 249.0,
+      "iterative": 249.0
+    }
+  }
+}

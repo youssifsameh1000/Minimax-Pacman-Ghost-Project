@@ -1,0 +1,953 @@
+{
+  "config": {
+    "layout": "mediumClassic",
+    "num_ghosts": 2,
+    "depth": 2,
+    "num_games": 50,
+    "seed": 42
+  },
+  "version_a_recursive": {
+    "games": [
+      {
+        "score": -318.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.8335034890005772,
+        "avg_decision_time": 0.01111337985334103,
+        "decision_count": 75,
+        "max_metric": 6
+      },
+      {
+        "score": 873.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 13.655679048998081,
+        "avg_decision_time": 0.011456106584729933,
+        "decision_count": 1192,
+        "max_metric": 6
+      },
+      {
+        "score": -287.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 13.193836681002722,
+        "avg_decision_time": 0.013011673255426747,
+        "decision_count": 1014,
+        "max_metric": 6
+      },
+      {
+        "score": 111.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 5.851324243996714,
+        "avg_decision_time": 0.010140943230496906,
+        "decision_count": 577,
+        "max_metric": 6
+      },
+      {
+        "score": -228.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.204573775996323,
+        "avg_decision_time": 0.0125476434999617,
+        "decision_count": 96,
+        "max_metric": 6
+      },
+      {
+        "score": -393.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.30376028400087307,
+        "avg_decision_time": 0.012150411360034924,
+        "decision_count": 25,
+        "max_metric": 6
+      },
+      {
+        "score": -316.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 7.374623562001489,
+        "avg_decision_time": 0.011668708167723875,
+        "decision_count": 632,
+        "max_metric": 6
+      },
+      {
+        "score": 854.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 15.885629805999088,
+        "avg_decision_time": 0.012915146183739096,
+        "decision_count": 1230,
+        "max_metric": 6
+      },
+      {
+        "score": 44.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.9719288930036782,
+        "avg_decision_time": 0.0084996935043262,
+        "decision_count": 232,
+        "max_metric": 6
+      },
+      {
+        "score": -103.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.7067151340042983,
+        "avg_decision_time": 0.008325439678069748,
+        "decision_count": 205,
+        "max_metric": 6
+      },
+      {
+        "score": -28.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 11.034619244993792,
+        "avg_decision_time": 0.012905987421045371,
+        "decision_count": 855,
+        "max_metric": 6
+      },
+      {
+        "score": -1010.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 37.25754279200737,
+        "avg_decision_time": 0.012851860224907682,
+        "decision_count": 2899,
+        "max_metric": 6
+      },
+      {
+        "score": -392.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.30454401099905226,
+        "avg_decision_time": 0.012689333791627178,
+        "decision_count": 24,
+        "max_metric": 6
+      },
+      {
+        "score": -338.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.4568571870008782,
+        "avg_decision_time": 0.01269047741669106,
+        "decision_count": 36,
+        "max_metric": 6
+      },
+      {
+        "score": 1130.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 7.671979284002646,
+        "avg_decision_time": 0.011315603663720716,
+        "decision_count": 678,
+        "max_metric": 6
+      },
+      {
+        "score": -171.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 6.3185475350119304,
+        "avg_decision_time": 0.01167938546212926,
+        "decision_count": 541,
+        "max_metric": 6
+      },
+      {
+        "score": -257.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.8715475059980236,
+        "avg_decision_time": 0.011777668999973291,
+        "decision_count": 74,
+        "max_metric": 6
+      },
+      {
+        "score": -163.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.8704802480010585,
+        "avg_decision_time": 0.0102409440941301,
+        "decision_count": 85,
+        "max_metric": 6
+      },
+      {
+        "score": 39.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 7.941941587996098,
+        "avg_decision_time": 0.0104361913114272,
+        "decision_count": 761,
+        "max_metric": 6
+      },
+      {
+        "score": -121.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 4.774028764999457,
+        "avg_decision_time": 0.011312864372036628,
+        "decision_count": 422,
+        "max_metric": 6
+      },
+      {
+        "score": 654.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 23.798902152015216,
+        "avg_decision_time": 0.014600553467493997,
+        "decision_count": 1630,
+        "max_metric": 6
+      },
+      {
+        "score": -27.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 10.010258267004247,
+        "avg_decision_time": 0.01262327650315794,
+        "decision_count": 793,
+        "max_metric": 6
+      },
+      {
+        "score": -339.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.5285471079992021,
+        "avg_decision_time": 0.01428505697295141,
+        "decision_count": 37,
+        "max_metric": 6
+      },
+      {
+        "score": 0.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 4.093931245003205,
+        "avg_decision_time": 0.009325583701601834,
+        "decision_count": 439,
+        "max_metric": 6
+      },
+      {
+        "score": -230.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.7449834189960711,
+        "avg_decision_time": 0.012416390316601186,
+        "decision_count": 60,
+        "max_metric": 6
+      },
+      {
+        "score": -338.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.4749668909994398,
+        "avg_decision_time": 0.013193524749984439,
+        "decision_count": 36,
+        "max_metric": 6
+      },
+      {
+        "score": -231.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 2.7396781920006106,
+        "avg_decision_time": 0.012396733900455252,
+        "decision_count": 221,
+        "max_metric": 6
+      },
+      {
+        "score": -15.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 9.40953976999981,
+        "avg_decision_time": 0.011083085712602839,
+        "decision_count": 849,
+        "max_metric": 6
+      },
+      {
+        "score": 32.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 10.160600576993147,
+        "avg_decision_time": 0.019691086389521602,
+        "decision_count": 516,
+        "max_metric": 6
+      },
+      {
+        "score": 868.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 14.360660871995151,
+        "avg_decision_time": 0.011947305217966015,
+        "decision_count": 1202,
+        "max_metric": 6
+      },
+      {
+        "score": -338.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.45122129100036545,
+        "avg_decision_time": 0.012533924750010151,
+        "decision_count": 36,
+        "max_metric": 6
+      },
+      {
+        "score": -182.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 5.385557752002114,
+        "avg_decision_time": 0.012731815016553462,
+        "decision_count": 423,
+        "max_metric": 6
+      },
+      {
+        "score": -44.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 11.06191663799882,
+        "avg_decision_time": 0.011920168790947004,
+        "decision_count": 928,
+        "max_metric": 6
+      },
+      {
+        "score": -284.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.595566635999603,
+        "avg_decision_time": 0.012407638249991729,
+        "decision_count": 48,
+        "max_metric": 6
+      },
+      {
+        "score": 1118.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 7.798476078008662,
+        "avg_decision_time": 0.01110894028206362,
+        "decision_count": 702,
+        "max_metric": 6
+      },
+      {
+        "score": -307.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 3.433991624994178,
+        "avg_decision_time": 0.013573089426854458,
+        "decision_count": 253,
+        "max_metric": 6
+      },
+      {
+        "score": 1262.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 7.705717154000922,
+        "avg_decision_time": 0.018612843367151986,
+        "decision_count": 414,
+        "max_metric": 6
+      },
+      {
+        "score": 408.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 30.343276419998347,
+        "avg_decision_time": 0.014299376258246158,
+        "decision_count": 2122,
+        "max_metric": 6
+      },
+      {
+        "score": -354.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 13.369748177997735,
+        "avg_decision_time": 0.013005591612838263,
+        "decision_count": 1028,
+        "max_metric": 6
+      },
+      {
+        "score": -333.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.64991532799786,
+        "avg_decision_time": 0.014442562844396888,
+        "decision_count": 45,
+        "max_metric": 6
+      },
+      {
+        "score": 17.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.723095891000412,
+        "avg_decision_time": 0.013784767128003295,
+        "decision_count": 125,
+        "max_metric": 6
+      },
+      {
+        "score": -89.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.3146731889996772,
+        "avg_decision_time": 0.013415032540813034,
+        "decision_count": 98,
+        "max_metric": 6
+      },
+      {
+        "score": -457.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 17.923321584001314,
+        "avg_decision_time": 0.010218541381984785,
+        "decision_count": 1754,
+        "max_metric": 6
+      },
+      {
+        "score": 103.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 2.5292844869954934,
+        "avg_decision_time": 0.008632370262783254,
+        "decision_count": 293,
+        "max_metric": 6
+      },
+      {
+        "score": -148.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.2590594160046749,
+        "avg_decision_time": 0.013253257010575524,
+        "decision_count": 95,
+        "max_metric": 6
+      },
+      {
+        "score": -507.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 23.958102367999345,
+        "avg_decision_time": 0.012387850241985184,
+        "decision_count": 1934,
+        "max_metric": 6
+      },
+      {
+        "score": -114.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.2813750729987987,
+        "avg_decision_time": 0.008657939682424315,
+        "decision_count": 148,
+        "max_metric": 6
+      },
+      {
+        "score": -392.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.36702070899946193,
+        "avg_decision_time": 0.015292529541644248,
+        "decision_count": 24,
+        "max_metric": 6
+      },
+      {
+        "score": 34.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 6.742759301989281,
+        "avg_decision_time": 0.008966435242007022,
+        "decision_count": 752,
+        "max_metric": 6
+      },
+      {
+        "score": -204.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 2.075055525001517,
+        "avg_decision_time": 0.014020645439199437,
+        "decision_count": 148,
+        "max_metric": 6
+      }
+    ],
+    "ghost_win_rate": "42/50",
+    "ghost_win_pct": 84.0,
+    "pacman_win_rate": "8/50",
+    "pacman_win_pct": 16.0,
+    "avg_score": -30.2,
+    "avg_decision_time_ms": 12.291,
+    "max_recursion_depth": 6
+  },
+  "version_b_iterative": {
+    "games": [
+      {
+        "score": -318.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.0090400710014364,
+        "avg_decision_time": 0.013453867613352486,
+        "decision_count": 75,
+        "max_metric": 7
+      },
+      {
+        "score": 873.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 15.612360742999954,
+        "avg_decision_time": 0.013097618072986539,
+        "decision_count": 1192,
+        "max_metric": 7
+      },
+      {
+        "score": -287.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 15.423165163993872,
+        "avg_decision_time": 0.015210222055220782,
+        "decision_count": 1014,
+        "max_metric": 7
+      },
+      {
+        "score": 111.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 6.817706122006712,
+        "avg_decision_time": 0.011815781840566225,
+        "decision_count": 577,
+        "max_metric": 7
+      },
+      {
+        "score": -228.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.5167740619986034,
+        "avg_decision_time": 0.015799729812485452,
+        "decision_count": 96,
+        "max_metric": 7
+      },
+      {
+        "score": -393.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.3539433999985704,
+        "avg_decision_time": 0.014157735999942815,
+        "decision_count": 25,
+        "max_metric": 7
+      },
+      {
+        "score": -316.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 8.092103941999994,
+        "avg_decision_time": 0.012803961933544295,
+        "decision_count": 632,
+        "max_metric": 7
+      },
+      {
+        "score": 854.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 15.253909229994406,
+        "avg_decision_time": 0.012401552219507648,
+        "decision_count": 1230,
+        "max_metric": 7
+      },
+      {
+        "score": 44.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 2.1715577139966626,
+        "avg_decision_time": 0.009360162560330442,
+        "decision_count": 232,
+        "max_metric": 7
+      },
+      {
+        "score": -103.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.9143180839960223,
+        "avg_decision_time": 0.009338136995102548,
+        "decision_count": 205,
+        "max_metric": 7
+      },
+      {
+        "score": -28.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 12.006272660010836,
+        "avg_decision_time": 0.014042424163755365,
+        "decision_count": 855,
+        "max_metric": 7
+      },
+      {
+        "score": -1010.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 39.03323451198912,
+        "avg_decision_time": 0.013464378927902422,
+        "decision_count": 2899,
+        "max_metric": 7
+      },
+      {
+        "score": -392.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.39961053300021376,
+        "avg_decision_time": 0.016650438875008906,
+        "decision_count": 24,
+        "max_metric": 7
+      },
+      {
+        "score": -338.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.5250509960005729,
+        "avg_decision_time": 0.014584749888904803,
+        "decision_count": 36,
+        "max_metric": 7
+      },
+      {
+        "score": 1130.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 9.162899392997133,
+        "avg_decision_time": 0.013514600874627039,
+        "decision_count": 678,
+        "max_metric": 7
+      },
+      {
+        "score": -171.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 6.639767761010717,
+        "avg_decision_time": 0.012273138190407979,
+        "decision_count": 541,
+        "max_metric": 7
+      },
+      {
+        "score": -257.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.0626237330006916,
+        "avg_decision_time": 0.014359780175685021,
+        "decision_count": 74,
+        "max_metric": 7
+      },
+      {
+        "score": -163.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.9546914610004933,
+        "avg_decision_time": 0.011231664247064626,
+        "decision_count": 85,
+        "max_metric": 7
+      },
+      {
+        "score": 39.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 9.04247797600101,
+        "avg_decision_time": 0.011882362649147188,
+        "decision_count": 761,
+        "max_metric": 7
+      },
+      {
+        "score": -121.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 4.635603839005398,
+        "avg_decision_time": 0.010984843220391938,
+        "decision_count": 422,
+        "max_metric": 7
+      },
+      {
+        "score": 654.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 20.8749226399932,
+        "avg_decision_time": 0.0128067010061308,
+        "decision_count": 1630,
+        "max_metric": 7
+      },
+      {
+        "score": -27.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 10.14345307700114,
+        "avg_decision_time": 0.012791239693570164,
+        "decision_count": 793,
+        "max_metric": 7
+      },
+      {
+        "score": -339.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.4992874290023792,
+        "avg_decision_time": 0.01349425483790214,
+        "decision_count": 37,
+        "max_metric": 7
+      },
+      {
+        "score": 0.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 4.05725179299634,
+        "avg_decision_time": 0.009242031419126058,
+        "decision_count": 439,
+        "max_metric": 7
+      },
+      {
+        "score": -230.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.738404566999634,
+        "avg_decision_time": 0.012306742783327234,
+        "decision_count": 60,
+        "max_metric": 7
+      },
+      {
+        "score": -338.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.5101776480000808,
+        "avg_decision_time": 0.014171601333335579,
+        "decision_count": 36,
+        "max_metric": 7
+      },
+      {
+        "score": -231.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 3.6419655699969553,
+        "avg_decision_time": 0.016479482217180794,
+        "decision_count": 221,
+        "max_metric": 7
+      },
+      {
+        "score": -15.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 11.078988712994942,
+        "avg_decision_time": 0.013049456670194278,
+        "decision_count": 849,
+        "max_metric": 7
+      },
+      {
+        "score": 32.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 7.656435858002624,
+        "avg_decision_time": 0.014838053988377177,
+        "decision_count": 516,
+        "max_metric": 7
+      },
+      {
+        "score": 868.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 17.505181481004456,
+        "avg_decision_time": 0.014563378935943807,
+        "decision_count": 1202,
+        "max_metric": 7
+      },
+      {
+        "score": -338.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.5502875940001104,
+        "avg_decision_time": 0.015285766500003066,
+        "decision_count": 36,
+        "max_metric": 7
+      },
+      {
+        "score": -182.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 5.907231209997462,
+        "avg_decision_time": 0.013965085602830881,
+        "decision_count": 423,
+        "max_metric": 7
+      },
+      {
+        "score": -44.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 11.773854043999108,
+        "avg_decision_time": 0.012687342719826626,
+        "decision_count": 928,
+        "max_metric": 7
+      },
+      {
+        "score": -284.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.5747985379989586,
+        "avg_decision_time": 0.011974969541644972,
+        "decision_count": 48,
+        "max_metric": 7
+      },
+      {
+        "score": 1118.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 7.3991875239971705,
+        "avg_decision_time": 0.010540153168087138,
+        "decision_count": 702,
+        "max_metric": 7
+      },
+      {
+        "score": -307.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 3.1143593000010696,
+        "avg_decision_time": 0.012309720553363912,
+        "decision_count": 253,
+        "max_metric": 7
+      },
+      {
+        "score": 1262.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 3.8214532130023144,
+        "avg_decision_time": 0.00923056331643071,
+        "decision_count": 414,
+        "max_metric": 7
+      },
+      {
+        "score": 408.0,
+        "pacman_won": true,
+        "ghost_won": false,
+        "total_decision_time": 30.161425678015803,
+        "avg_decision_time": 0.014213678453353347,
+        "decision_count": 2122,
+        "max_metric": 7
+      },
+      {
+        "score": -354.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 16.014125230002264,
+        "avg_decision_time": 0.015577942830741503,
+        "decision_count": 1028,
+        "max_metric": 7
+      },
+      {
+        "score": -333.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.6772694499986756,
+        "avg_decision_time": 0.015050432222192791,
+        "decision_count": 45,
+        "max_metric": 7
+      },
+      {
+        "score": 17.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.7587907230017663,
+        "avg_decision_time": 0.014070325784014131,
+        "decision_count": 125,
+        "max_metric": 7
+      },
+      {
+        "score": -89.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.5305495450002127,
+        "avg_decision_time": 0.01561785250000217,
+        "decision_count": 98,
+        "max_metric": 7
+      },
+      {
+        "score": -457.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 12.499814703994616,
+        "avg_decision_time": 0.0071264622029615825,
+        "decision_count": 1754,
+        "max_metric": 7
+      },
+      {
+        "score": 103.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 2.556680713003516,
+        "avg_decision_time": 0.008725872740626334,
+        "decision_count": 293,
+        "max_metric": 7
+      },
+      {
+        "score": -148.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.2419063000024835,
+        "avg_decision_time": 0.013072697894762984,
+        "decision_count": 95,
+        "max_metric": 7
+      },
+      {
+        "score": -507.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 24.997157149007762,
+        "avg_decision_time": 0.012925107109104324,
+        "decision_count": 1934,
+        "max_metric": 7
+      },
+      {
+        "score": -114.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.4321695259995977,
+        "avg_decision_time": 0.009676821121618903,
+        "decision_count": 148,
+        "max_metric": 7
+      },
+      {
+        "score": -392.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 0.35132062999946356,
+        "avg_decision_time": 0.014638359583310981,
+        "decision_count": 24,
+        "max_metric": 7
+      },
+      {
+        "score": 34.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 6.673348908997468,
+        "avg_decision_time": 0.008874134187496633,
+        "decision_count": 752,
+        "max_metric": 7
+      },
+      {
+        "score": -204.0,
+        "pacman_won": false,
+        "ghost_won": true,
+        "total_decision_time": 1.8861061150014393,
+        "avg_decision_time": 0.012743960236496212,
+        "decision_count": 148,
+        "max_metric": 7
+      }
+    ],
+    "ghost_win_rate": "42/50",
+    "ghost_win_pct": 84.0,
+    "pacman_win_rate": "8/50",
+    "pacman_win_pct": 16.0,
+    "avg_score": -30.2,
+    "avg_decision_time_ms": 12.85,
+    "max_stack_size": 7
+  },
+  "comparison_summary": {
+    "ghost_win_rate": {
+      "recursive": "42/50 (84.0%)",
+      "iterative": "42/50 (84.0%)"
+    },
+    "pacman_win_rate": {
+      "recursive": "8/50 (16.0%)",
+      "iterative": "8/50 (16.0%)"
+    },
+    "avg_decision_time_ms": {
+      "recursive": 12.291,
+      "iterative": 12.85
+    },
+    "max_depth_or_stack": {
+      "recursive": 6,
+      "iterative": 7
+    },
+    "avg_score": {
+      "recursive": -30.2,
+      "iterative": -30.2
+    }
+  }
+}
